@@ -1,0 +1,5 @@
+default:
+  base_url: "https://retinabot.com/tina"
+  
+rsconnect:
+  base_url: "https://retinabot.com/tina"
